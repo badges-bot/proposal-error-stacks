@@ -1,4 +1,6 @@
 # Error Stacks
+
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
 ECMAScript Proposal, specs, and reference implementation for `Error.prototype.stack`/`System.getStack`/`System.getStackString`
 
 Spec drafted by [@ljharb](https://github.com/ljharb) along with [@erights](https://github.com/erights).
